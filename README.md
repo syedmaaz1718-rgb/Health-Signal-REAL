@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33107741/README.md)
+https://smartmedicaldiagnosis.netlify.app
 # Health Signal
 
 Educational, transparent classifiers on historical Pima and Cleveland health datasets.
